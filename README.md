@@ -4,8 +4,10 @@ The design will be broken into three fragments: The propeller, The blimp, and Th
 
 The propeller:
   an optional piece, 3d parts ment to give the blimp direction so it not only goes up but forward.
+  
 The blimp:
   a robust figure filled with helium (or some other form of flight movement) built with a wooden frame and secured with wood glue.
+  
 The hot-box:
   where the wiring will be in the design. A small wooden box secured with nuts and bolts.
 
