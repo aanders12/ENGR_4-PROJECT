@@ -23,10 +23,11 @@ The hot-box:
   - Nuts and Bolts
   - Miniture Servo
   - RaspberryPi, and RaspberryPi Camera
-  - 
-#### if motorized
-  - battery (5v)
-  - motor
+  - Accelerator and OLED display
+  - battery (5v at least)
+
+### Priorities 
+ The necessary aspects of the blimp are for it to be a lightweight (but well built for endurance)  and fully enclosed structure. The ability of launch and flight as well as a safe and controlled return (the building of a controller may be nescessary), and lastly data recording through imaging.  
 
 ### Timeline
 
