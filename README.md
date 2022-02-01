@@ -28,6 +28,9 @@ The hot-box:
   
 ### Sketches of Design
 
+<img src="https://user-images.githubusercontent.com/61207267/151993026-7c761323-7ad4-4732-a256-99b352526f1f.jpg" alt="IMG_1052"/>![image](https://user-images.githubusercontent.com/61207267/151993135-2f59f946-4bc1-40d5-bfce-2ba36ecfbb38.png)
+
+
 ### Block of Code
 
 
