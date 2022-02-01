@@ -17,12 +17,16 @@ The hot-box:
 
 ### Expected Materials
   - thin ply-wood
-  - blimp paper (a sturdy paper sheet)
-  - helium
+  - blimp paper (a sturdy paper sheet, or Mylar)
+  - helium (hot air alternative)
   - wood glue
+  - Nuts and Bolts
+  - Miniture Servo
+  - RaspberryPi, and RaspberryPi Camera
+  - 
 #### if motorized
   - battery (5v)
   - motor
 
-  
-https://github.com/The-Alchemist/raspberrypi-blimp
+### Timeline
+
