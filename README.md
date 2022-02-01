@@ -15,7 +15,7 @@ The hot-box:
   
   loose measurments for basis : four feet in length, 1-2 feet in height, and 1-2 feet in width.  
 
-### Expected Materials
+### Bill of Materials
   - thin ply-wood
   - blimp paper (a sturdy paper sheet, or Mylar)
   - helium (hot air alternative)
@@ -25,6 +25,11 @@ The hot-box:
   - RaspberryPi, and RaspberryPi Camera
   - Accelerator and OLED display
   - battery (5v at least)
+  
+### Sketches of Design
+
+### Block of Code
+
 
 ### Priorities 
  The necessary aspects of the blimp are for it to be a lightweight (but well built for endurance)  and fully enclosed structure. The ability of launch and flight as well as a safe and controlled return (the building of a controller may be nescessary), and lastly data recording through imaging.  
