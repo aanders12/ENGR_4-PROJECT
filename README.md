@@ -25,3 +25,4 @@ The hot-box:
   - motor
 
   
+https://github.com/The-Alchemist/raspberrypi-blimp
