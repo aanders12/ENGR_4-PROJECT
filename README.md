@@ -40,4 +40,19 @@ The hot-box:
 
 ### Timeline
 
+Feb 10:
+  CAD of frame done, begin to cut out/print.
+  Code of accelerator and camera interaction started.
+  
+Feb 20:
+  Frame assembled, begin caboose interior.
+  Code of accelerator and camera interaction finished, started servo interaction.
+  
+March 1:
+  
+
+March 10:
+
+March 20:
+
 ### Risk Mitigation
