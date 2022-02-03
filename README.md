@@ -41,18 +41,27 @@ The hot-box:
 ### Timeline
 
 Feb 10:
-  CAD of frame done, begin to cut out/print.
-  Code of accelerator and camera interaction started.
+Absolute measurments, CAD started.
+Code of accelerator and camera interaction started.
   
 Feb 20:
-  Frame assembled, begin caboose interior.
-  Code of accelerator and camera interaction finished, started servo interaction.
+CAD continued.
+Code of accelerator and camera interaction continued, started servo interaction.
   
 March 1:
-  
+CAD finished, begin to cut out pieces.
+Code of accelerator and camera interaction finished, finalize servo interaction.
 
 March 10:
+Assemble frame of blimp, begin caboose interior wiring.
 
 March 20:
+Finialize frame and further assembly. 
+Finalize code and further wiring.
+
+March 30: 
+First test launch.
+Take notes and improvements, go from there.
 
 ### Risk Mitigation
+Fire saftey research and appropriate weight disstribution as well as a contiengency plan for return/ (weight dropping to sink the blimp steadily.)
