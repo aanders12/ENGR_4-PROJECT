@@ -33,8 +33,7 @@ The hot-box:
 
 
 ### Block of Code
-
-Start: [ground reading]
+![image](https://user-images.githubusercontent.com/61207267/152370016-ce261ec6-f1aa-4a64-b48c-0f3e840d32cd.png)
 
 ### Priorities 
  The necessary aspects of the blimp are for it to be a lightweight (but well built for endurance)  and fully enclosed structure. The ability of launch and flight as well as a safe and controlled return (the building of a controller may be nescessary), and lastly data recording through imaging.  
