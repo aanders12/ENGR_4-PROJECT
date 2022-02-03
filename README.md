@@ -29,15 +29,16 @@ The hot-box:
 ### Sketches of Design
 
 ![image](https://user-images.githubusercontent.com/61207267/151993253-47cd025b-dcf9-47f5-816e-ccb378cb40b4.png)
-
+![image](https://user-images.githubusercontent.com/61207267/152361281-22aa66cb-7ac9-42d9-8056-85bfb2077f5f.png)
 
 
 ### Block of Code
 
+Start: [ground reading]
 
 ### Priorities 
  The necessary aspects of the blimp are for it to be a lightweight (but well built for endurance)  and fully enclosed structure. The ability of launch and flight as well as a safe and controlled return (the building of a controller may be nescessary), and lastly data recording through imaging.  
 
 ### Timeline
 
-
+### Risk Mitigation
