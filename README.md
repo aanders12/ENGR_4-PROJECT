@@ -1,6 +1,6 @@
 # BLIMP MOBILE
 
-The design will be broken into three fragments: The propeller, The blimp, and The hot-box.
+The design will be broken into two fragments: The blimp, and The hot-box.
 
 The propeller:
   an optional piece, 3d parts ment to give the blimp direction so it not only goes up but forward.
